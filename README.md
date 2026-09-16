@@ -2,6 +2,16 @@
 
 An AI-assisted public research lab and book-development workbench exploring data science, artificial intelligence, philosophy, responsible AI, and the questions connecting them.
 
+## Start with the work
+
+| Review path | What to inspect |
+| --- | --- |
+| [Funnel integrity](experiments/funnel-integrity/README.md) | An executable analytics contract, validator, synthetic event definitions, and regression tests |
+| [Source-preserving editorial tools](book/README.md#offline-tools) | Offline intake, revision tracking, and review packets using invented examples |
+| [Claim ledger](ai-workflows/claim-ledger.md) | A method for separating evidence, inference, and uncertainty |
+
+For contact-center SQL and AHT/FCR analysis, see the [SQL portfolio](https://github.com/neal-vazquez/neal-vazquez-site-public). For professional background, see [my résumé](https://neal-vazquez.com/consulting/resume).
+
 ## What this is
 
 This repository is a living workbench for small experiments, research notes, analytical patterns, technical sketches, and ideas that emerge from ongoing work at the intersection of data, AI, and philosophy.
@@ -29,9 +39,9 @@ experiments/        Small executable experiments and synthetic examples
 
 ## Questions Worth Asking: the book
 
-The [book workstream](book/README.md) supports the living anthology, including Neal's LinkedIn posts and his own follow-up comments on those posts. It preserves source wording, tracks observations and revisions, links comments to their root posts, and prepares private review packets for editorial selection.
+The [book workstream](book/README.md#offline-tools) demonstrates reusable editorial tooling with synthetic examples. Manuscripts, real source archives, and active editorial decisions are maintained privately. A repository update does not establish a new book edition or publication.
 
-The [private book workspace](https://github.com/neal-vazquez/questions-worth-asking-lab-private) now holds the manuscript, source corpus, publishing material, decisions, and active book tasks. This public lab retains reusable tools and examples. The 56-file Drive transfer is complete, with originals preserved as recovery copies. New live LinkedIn capture and manuscript incorporation remain separate editorial work.
+Read the published work and free sampler at [Questions Worth Asking](https://neal-vazquez.com/writing).
 
 Start with [AGENTS.md](AGENTS.md) and the [documentation map](docs/README.md) before continuing work.
 
@@ -58,7 +68,7 @@ AI assistance is treated as part of the methodology rather than disguised as inv
 
 ## Status
 
-This is an active public lab notebook. Expect frequent small updates and occasional larger experiments.
+This is a public lab notebook. Dated entries describe observations at the time they were written; experiments and research notes have different levels of maturity. The repository history shows actual updates.
 
 ## Rights and permissions
 
