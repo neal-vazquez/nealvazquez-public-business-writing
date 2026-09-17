@@ -1,6 +1,6 @@
 # Next edition: new posts and author follow-ups
 
-Status as of 2026-09-07: protected content transfer is complete. This public plan records the process baseline. Current capture, selection, and manuscript work are tracked in [the private workspace](https://github.com/neal-vazquez/questions-worth-asking-lab-private/blob/main/book/planning/NEXT_EDITION.md).
+Status as of 2026-09-07: protected content transfer is complete. This public plan records the process baseline. Current capture, selection, and manuscript work are tracked in [the private workspace](https://github.com/neal-vazquez/nealvazquez-private-business-writing/blob/main/book/planning/NEXT_EDITION.md).
 
 ## Outcome
 

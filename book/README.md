@@ -1,12 +1,12 @@
 # Questions Worth Asking
 
-This public directory contains reusable book tools, synthetic fixtures, and shared workflow documentation. The [private book workspace](https://github.com/neal-vazquez/questions-worth-asking-lab-private) is authoritative for manuscript content, current editorial decisions, active tasks, and publishing preparation. The former Drive instruction layer is retired.
+This public directory contains reusable book tools, synthetic fixtures, and shared workflow documentation. The [private book workspace](https://github.com/neal-vazquez/nealvazquez-private-business-writing) is authoritative for manuscript content, current editorial decisions, active tasks, and publishing preparation. The former Drive instruction layer is retired.
 
 ## Public reference map
 
 1. [Current state](STATE.md)
 2. [Standing decisions](DECISIONS.md)
-3. [Active book tasks in the private workspace](https://github.com/neal-vazquez/questions-worth-asking-lab-private/blob/main/book/OPEN_ITEMS.jsonl)
+3. [Active book tasks in the private workspace](https://github.com/neal-vazquez/nealvazquez-private-business-writing/blob/main/book/OPEN_ITEMS.jsonl)
 4. [Next edition](planning/NEXT_EDITION.md)
 5. The relevant [editorial workflow](workflows/EDITORIAL.md), [source contract](workflows/SOURCE_CONTRACT.md), or [source map](sources/README.md)
 

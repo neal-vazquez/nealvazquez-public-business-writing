@@ -18,6 +18,6 @@ Reconciled 2026-09-07 from the former Drive instruction records, direct folder l
 
 Completed reference checks, prior typography cleanup, and resolved authorship corrections remain completed historical work. Reopen them for a concrete new issue or changed content, not because a pre-finalization note calls them pending.
 
-Use [the private backlog](https://github.com/neal-vazquez/questions-worth-asking-lab-private/blob/main/book/OPEN_ITEMS.jsonl) for active book work, [decisions](DECISIONS.md) for settled constraints, and [edition history](history/EDITION_HISTORY.md) for chronology. Do not create another competing master context.
+Use [the private backlog](https://github.com/neal-vazquez/nealvazquez-private-business-writing/blob/main/book/OPEN_ITEMS.jsonl) for active book work, [decisions](DECISIONS.md) for settled constraints, and [edition history](history/EDITION_HISTORY.md) for chronology. Do not create another competing master context.
 
-Protected transfer completed in [the private workspace](https://github.com/neal-vazquez/questions-worth-asking-lab-private): all 56 source files have verified hashes, with rich exports and preserved native originals. New LinkedIn capture and edition incorporation remain separate work.
+Protected transfer completed in [the private workspace](https://github.com/neal-vazquez/nealvazquez-private-business-writing): all 56 source files have verified hashes, with rich exports and preserved native originals. New LinkedIn capture and edition incorporation remain separate work.
