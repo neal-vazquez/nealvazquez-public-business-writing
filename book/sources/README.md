@@ -1,6 +1,6 @@
 # Sources and private book workspace
 
-The protected transfer is complete. [questions-worth-asking-lab-private](https://github.com/neal-vazquez/questions-worth-asking-lab-private) holds the manuscript baseline, raw and processed sources, publishing material, original source mappings, and active book work. Access requires permission to the private repo.
+The protected transfer is complete. [nealvazquez-private-business-writing](https://github.com/neal-vazquez/nealvazquez-private-business-writing) holds the manuscript baseline, raw and processed sources, publishing material, original source mappings, and active book work. Access requires permission to the private repo.
 
 | Material | Current home |
 | --- | --- |

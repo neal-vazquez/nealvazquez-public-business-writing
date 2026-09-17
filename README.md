@@ -1,5 +1,7 @@
 # Questions Worth Asking Lab
 
+[Workspace](https://github.com/neal-vazquez/nealvazquez-public) → [02 Business](https://github.com/neal-vazquez/nealvazquez-public/tree/main/business) → [Writing](https://github.com/neal-vazquez/nealvazquez-public/tree/main/business/writing)
+
 An AI-assisted public research lab and book-development workbench exploring data science, artificial intelligence, philosophy, responsible AI, and the questions connecting them.
 
 ## Start with the work
@@ -10,7 +12,7 @@ An AI-assisted public research lab and book-development workbench exploring data
 | [Source-preserving editorial tools](book/README.md#offline-tools) | Offline intake, revision tracking, and review packets using invented examples |
 | [Claim ledger](ai-workflows/claim-ledger.md) | A method for separating evidence, inference, and uncertainty |
 
-For contact-center SQL and AHT/FCR analysis, see the [SQL portfolio](https://github.com/neal-vazquez/neal-vazquez-site-public). For professional background, see [my résumé](https://neal-vazquez.com/consulting/resume).
+For contact-center SQL and AHT/FCR analysis, see the [SQL portfolio](https://github.com/neal-vazquez/nealvazquez-public). For professional background, see [my résumé](https://neal-vazquez.com/consulting/resume).
 
 ## What this is
 

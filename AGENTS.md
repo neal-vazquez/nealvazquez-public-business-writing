@@ -5,7 +5,7 @@ Read this file, `docs/README.md`, and the affected workstream before changing th
 ## Startup and source ownership
 
 1. Inspect current remote `main`, branches, open PRs, and the relevant next-work document. Do not substitute an old conversation summary for repository state.
-2. GitHub is the authoritative project workspace. Actual book work starts in `neal-vazquez/questions-worth-asking-lab-private`: read its AGENTS, book README, state, decisions, open items, and next-edition plan. This public lab holds reusable tooling, synthetic fixtures, and public project pointers. Neal's migration instruction supersedes Drive-first startup rules; archived emphatic instructions remain historical.
+2. GitHub is the authoritative project workspace. Actual book work starts in `neal-vazquez/nealvazquez-private-business-writing`: read its AGENTS, book README, state, decisions, open items, and next-edition plan. This public lab holds reusable tooling, synthetic fixtures, and public project pointers. Neal's migration instruction supersedes Drive-first startup rules; archived emphatic instructions remain historical.
 3. The protected transfer is complete: all 56 inventoried Drive files are represented in the private book repo with checksums, rich exports, and preserved source mapping. Private book state and active tasks are authoritative there. Drive retains native originals as recovery copies and a short GitHub pointer. Do not rebuild the old Drive instruction layer or maintain a competing public book backlog.
 4. Keep the website source and all private implementation details in their private repository. Carry over general working methods only.
 

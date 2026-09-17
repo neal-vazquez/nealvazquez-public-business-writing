@@ -1,6 +1,6 @@
 # Documentation map
 
-[AGENTS.md](../AGENTS.md) governs this public lab. The [private book workspace](https://github.com/neal-vazquez/questions-worth-asking-lab-private) holds actual book direction, content, and active tasks. The protected transfer is complete; Drive remains a minimal pointer and native recovery archive.
+[AGENTS.md](../AGENTS.md) governs this public lab. The [private book workspace](https://github.com/neal-vazquez/nealvazquez-private-business-writing) holds actual book direction, content, and active tasks. The protected transfer is complete; Drive remains a minimal pointer and native recovery archive.
 
 | Area | Start here | Role |
 | --- | --- | --- |
